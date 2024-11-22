@@ -1,6 +1,6 @@
 # ML-Model-Evaluations
 
-This project evaluates different machine learning models on the dataset and explores hyper-parameter optimization for improving model performance.
+This project evaluates different machine learning models on the dataset and explores hyper-parameter optimization for improving model performance. Predicts which water pumps are faulty to promote access to clean, potable water across Tanzania.
 
 ## Data Preprocessing
 
